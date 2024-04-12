@@ -1,0 +1,22 @@
+{
+    "Lua.diagnostics.globals": [
+        "height",
+        "background",
+        "width",
+        "char",
+        "player",
+        "playerHeight",
+        "playerWidth",
+        "window",
+        "world",
+        "ball",
+        "rectUp",
+        "rectDown",
+        "paddle",
+        "paddleSkeleton",
+        "rectLeft",
+        "rectRight",
+        "rect"
+    ],
+    "Lua.diagnostics.disable": ["inject-field"]
+}

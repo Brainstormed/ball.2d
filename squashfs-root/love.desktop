@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ball.2d
+Comment=Ball game
+MimeType=application/x-love-game;
+Exec=ball.2d %f
+Type=Application
+Categories=Game;
+Terminal=false
+Icon=logo
+NoDisplay=true
